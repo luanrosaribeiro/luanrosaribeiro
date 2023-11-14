@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/luan-rosa-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![Snake animation](https://github.com/luanrosaribeiro/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/luanrosaribeiro/luanrosaribeiro/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
