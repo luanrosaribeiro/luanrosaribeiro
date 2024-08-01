@@ -4,7 +4,7 @@
 
 - 🔭 Atualmente trabalho como Analista de suporte e sistema N1.
 - 🌱 Atualmente estou aprendendo sobre Node.JS e .NET e aprofundando meus conhecimentos em SQL.
-- 🌱 Atualmente estou cursando a graduação em Engenharia de computação na Universidade Federal do Pampa.
+- 🌱 Atualmente estou cursando a graduação em Análise e desenvolvimento de sistemas
 
 
 ## Ferramentas e Tecnologias
