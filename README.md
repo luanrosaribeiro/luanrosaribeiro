@@ -1,9 +1,8 @@
 # 👋 Hello! Bem vindo ao meu perfil do Github.
-## Meu nome é Luan Rosa Ribeiro e meu nickname é "luanrosaribeiro"!
+## Meu nome é Luan Rosa Ribeiro!
 
 
-- 🔭 Atualmente trabalho como Analista de suporte e sistema N1.
-- 🌱 Atualmente estou aprendendo sobre Node.JS e .NET e aprofundando meus conhecimentos em SQL.
+- 🔭 Atualmente trabalho como Desenvolvedor Pleno na instituição Urcamp.
 - 🌱 Atualmente estou cursando a graduação em Análise e desenvolvimento de sistemas
 
 
